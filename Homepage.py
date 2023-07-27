@@ -3,10 +3,10 @@ import pandas as pd
 
 st.set_page_config(layout="wide")
 
-col1, col2 = st.columns([0.3, 0.6])
+col1, col2 = st.columns([0.2, 0.7])
 
 with col1:
-    st.image("images/me.jpg", width=250, use_column_width=True)
+    st.image("images/me.jpg", use_column_width=True)
 
 with col2:
     st.title("Eglė Babachinaitė")
