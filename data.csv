@@ -1,6 +1,6 @@
 title;description;url;image
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://eglebabachinaite-to-do-app-website-web-3s71iy.streamlit.app;1.png
-Company Website;A website built entirely in Python to visualise company members and their roles.;https://github.com/EgleBabachinaite/portfolio_website;2.png
+Company Website;A website built entirely in Python and Streamlit to visualise company members and their roles.;https://github.com/EgleBabachinaite/portfolio_website;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/EgleBabachinaite/pdf_templates;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/EgleBabachinaite/invoice_generator;4.png
 Happiness data visualisation;A website that gets happiness, gdp and generosity data from various countries and visualises it through scattered graphs.;https://github.com/EgleBabachinaite/happiness_data_app;5.png

@@ -13,7 +13,7 @@ st.set_page_config(layout="wide")
 with open(css_file) as f:
     st.markdown("<style>{}</style>".format(f.read()), unsafe_allow_html=True)
 
-col1, col2 = st.columns([0.3, 0.6])
+col1, col2 = st.columns([0.25, 0.65])
 
 with col1:
     st.image("images/wbg.png", use_column_width="auto")
