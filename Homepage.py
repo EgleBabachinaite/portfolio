@@ -16,7 +16,7 @@ with open(css_file) as f:
 col1, col2 = st.columns([0.25, 0.65])
 
 with col1:
-    st.image("images/wbg.png", use_column_width="auto")
+    st.image("images/20230801_173314.jpg", use_column_width="auto")
 
 with col2:
     st.title("Eglė Babachinaitė")
